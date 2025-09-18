@@ -1,4 +1,4 @@
-# 🌐 Hola, soy SM  
+# 🌐 Hola, soy sara morjane  
 
 👨‍💻 Estudiante de **2º curso del Ciclo de Grado Medio en Sistemas Microinformáticos y Redes (SMR)**.  
 Este perfil será mi espacio para compartir proyectos, aprendizajes y, poco a poco, mi portafolio profesional. 🚀  
