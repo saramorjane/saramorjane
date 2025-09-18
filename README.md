@@ -59,6 +59,3 @@ Este perfil será mi espacio para compartir proyectos, aprendizajes y, poco a po
 
 > “El buen código tiene que fluir como una canción: con ritmo, armonía… y un poquito de caos.” 🎶💻  
 
----
-
-📫 *Pronto añadiré aquí mis formas de contacto profesional.*  
